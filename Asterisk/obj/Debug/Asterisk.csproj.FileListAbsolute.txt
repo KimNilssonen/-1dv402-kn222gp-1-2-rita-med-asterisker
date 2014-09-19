@@ -1,0 +1,6 @@
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\bin\Debug\Asterisk.exe.config
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\bin\Debug\Asterisk.exe
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\bin\Debug\Asterisk.pdb
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\obj\Debug\Asterisk.csprojResolveAssemblyReference.cache
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\obj\Debug\Asterisk.exe
+P:\Projects\1dv402-kn222gp-1-2-rita-med-asterisker\Asterisk\obj\Debug\Asterisk.pdb
