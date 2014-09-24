@@ -17,7 +17,7 @@ namespace Asterisk
             int columns;
 
 
-            // 2. Skapar for-satser. En som innehåller antal rader och en som innehåller antalet kolumner.
+            // 2. Skapar for-satser. En som innehåller antal rader och en som innehåller antalet kolumner... (Se nästa under del 4)
             for (rows = 0; rows < 25; rows++)
             {
 
